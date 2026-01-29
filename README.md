@@ -30,7 +30,7 @@ Este proyecto es una aplicación móvil desarrollada en Flutter que permite a lo
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/Dainel-Samuel/Superhero-App.git
     ```
 
 2.  **Instalar dependencias:**
