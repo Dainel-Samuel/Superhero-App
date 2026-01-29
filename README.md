@@ -26,6 +26,11 @@ Este proyecto es una aplicación móvil desarrollada en Flutter que permite a lo
 -   `lib/screens/`: Contiene las pantallas de la aplicación (`SuperheroSearchScreen`, `SuperheroDetailScreen`).
 -   `lib/data/`: Manejo de datos y modelos (`Repository`, `SuperheroResponse`, etc.).
 
+## Capturas de Pantalla
+
+|:---:|:---:|:---:|
+|(assets/images/App1.png) | (assets/images/App2.png) | (assets/images/App3.png) |
+
 ## Cómo Ejecutar el Proyecto
 
 1.  **Clonar el repositorio:**
