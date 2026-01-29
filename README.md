@@ -28,8 +28,9 @@ Este proyecto es una aplicación móvil desarrollada en Flutter que permite a lo
 
 ## Capturas de Pantalla
 
+| Pantalla Principal | Búsqueda | Detalle |
 |:---:|:---:|:---:|
-|(assets/images/App1.png) | (assets/images/App2.png) | (assets/images/App3.png) |
+| ![Pantalla Principal](assets/images/App1.png) | ![Búsqueda](assets/images/App2.png) | ![Detalle](assets/images/App3.png) |
 
 ## Cómo Ejecutar el Proyecto
 
